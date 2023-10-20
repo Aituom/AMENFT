@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eebcfe42.css",
+    "main.js": "/static/js/main.d66d1edc.js",
+    "static/media/swimming-man.gif": "/static/media/swimming-man.16042dd1cf7308194b1c.gif",
+    "index.html": "/index.html",
+    "main.eebcfe42.css.map": "/static/css/main.eebcfe42.css.map",
+    "main.d66d1edc.js.map": "/static/js/main.d66d1edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebcfe42.css",
+    "static/js/main.d66d1edc.js"
+  ]
+}
